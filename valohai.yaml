@@ -1,0 +1,6 @@
+---
+
+- step:
+    name: Helloworld
+    image: busybox
+    command: echo "Hello world!"
