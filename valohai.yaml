@@ -3,4 +3,4 @@
 - step:
     name: Helloworld
     image: busybox
-    command: cat hello.txt
+    command: echo "Hello world!"
